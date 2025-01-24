@@ -1,6 +1,7 @@
 package org.example.geometryutils;
 
-import org.example.geometrylibrary.Triangle;
+
+import org.example.twodimensionalshapes.Triangle;
 
 public class Compare {
     public Triangle compareAreaTriangle(Triangle triangle1, Triangle triangle2) {

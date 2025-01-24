@@ -1,4 +1,4 @@
-package org.example.geometrylibrary;
+package org.example.twodimensionalshapes;
 
 public class Triangle {
 

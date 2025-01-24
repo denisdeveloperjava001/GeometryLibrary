@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ThreeDimensionalShapes" />
+        <module name="TwoDimensionalShapes" />
         <module name="GeometryUtils" />
       </profile>
     </annotationProcessing>
